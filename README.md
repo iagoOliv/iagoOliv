@@ -1,4 +1,4 @@
-<p style="align: center;">
+<p style="text-align: center;">
 
 # Iago Oliveira
 [Linkedin](https://https://www.linkedin.com/in/iago-oliveira-785552259/)
