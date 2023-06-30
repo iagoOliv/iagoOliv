@@ -1,4 +1,6 @@
 # Iago Oliveira
+[Linkedin](https://https://www.linkedin.com/in/iago-oliveira-785552259/)
+Português 🇧🇷 • English 🇺🇸 • Français 🇫🇷
 
 ## Intro
 Aspiring FullStack and Web Developer
