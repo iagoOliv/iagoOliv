@@ -1,16 +1,17 @@
-<p style="text-align: center;">
+<div style="text-align: center;">
 
 # Iago Oliveira
 [Linkedin](https://https://www.linkedin.com/in/iago-oliveira-785552259/)
 
 Português 🇧🇷 • English 🇺🇸 • Français 🇫🇷
 
-</p>
+</div>
 
 ---
 
 ### Intro
 Aspiring FullStack and Web Developer
+
 I enjoy well tinkered and designed apps/programs and scripts in general
 
 ### Tools & Softwares I use
