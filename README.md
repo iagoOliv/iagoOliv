@@ -9,10 +9,11 @@ Português 🇧🇷 • English 🇺🇸 • Français 🇫🇷
 
 ---
 
-## Intro
+### Intro
 Aspiring FullStack and Web Developer
+I enjoy well tinkered and designed apps/programs and scripts in general
 
-## Tools & Softwares I use
+### Tools & Softwares I use
 **FrontEnd**
 
 ![](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,figma)
