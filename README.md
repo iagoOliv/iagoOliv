@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-# Iago Oliveira
+### **Iago Oliveira**
 [Linkedin](https://https://www.linkedin.com/in/iago-oliveira-785552259/)
 
 Português 🇧🇷 • English 🇺🇸 • Français 🇫🇷
@@ -21,4 +21,3 @@ I enjoy well tinkered and designed apps/programs and scripts in general
 ![](https://skillicons.dev/icons?i=python)
 
 ![](https://skillicons.dev/icons?i=linux,windows,macos)
-
