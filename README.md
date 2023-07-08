@@ -29,15 +29,3 @@
 <img src="https://skillicons.dev/icons?i=figma,xd"></img>
 
 <img src="https://skillicons.dev/icons?i=linux,bash"></img>
-
-
-<style>
-
-  .icon {
-    height: 48px;
-  }
-
-  .langs {
-    max-height: 40px;
-  }
-</style>
