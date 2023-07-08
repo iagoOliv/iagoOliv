@@ -5,8 +5,8 @@
   </div>
 
   <div align="center">
-    <a href="https://www.linkedin.com/in/iago-oliveira-785552259/"><img class="icon" src="img/linkedin.png"></img></a>
-    <a href="https://twitter.com/IagoOlivX"><img class="icon" src="img/twitter.png"></img></a>
+    <a href="https://www.linkedin.com/in/iago-oliveira-785552259/"><img class="icon" height="48px" src="img/linkedin.png"></img></a>
+    <a href="https://twitter.com/IagoOlivX"><img class="icon" height="48px" src="img/twitter.png"></img></a>
   </div>
 
   <img class="langs" src="img/languages.png"></img>
