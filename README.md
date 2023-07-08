@@ -9,7 +9,7 @@
     <a href="https://twitter.com/IagoOlivX"><img class="icon" height="48px" src="img/twitter.png"></img></a>
   </div>
 
-  <img class="langs" src="img/languages.png"></img>
+  <img class="langs" height="48px" src="img/languages.png"></img>
 
 </div>
 
