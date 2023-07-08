@@ -1,9 +1,9 @@
-<div style="text-align: center;">
+<div align="center">
 
-### **Iago Oliveira**
-[Linkedin](https://https://www.linkedin.com/in/iago-oliveira-785552259/)
+<h3>Iago Oliveira</h2>
 
-Português 🇧🇷 • English 🇺🇸 • Français 🇫🇷
+<a href="https://www.linkedin.com/in/iago-oliveira-785552259/">Linkedin</a>
+<p>Português 🇧🇷 • English 🇺🇸 • Français 🇫🇷</p>
 
 </div>
 
@@ -14,10 +14,14 @@ Aspiring FullStack and Web Developer
 
 I enjoy well tinkered and designed apps/programs and scripts in general
 
+---
 ### Tools & Softwares I use
 
-![](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,figma)
+<img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind"></img>
 
-![](https://skillicons.dev/icons?i=python)
+<img src="https://skillicons.dev/icons?i=python"></img>
 
-![](https://skillicons.dev/icons?i=linux,windows,macos)
+<img src="https://skillicons.dev/icons?i=figma,xd"></img>
+
+<img src="https://skillicons.dev/icons?i=linux,bash"></img>
+
