@@ -14,18 +14,10 @@
 </div>
 
 ---
+<h3> Softwares & Tools I use</h3>
 
-<h3>Intro</h3>
-<p>Aspiring FullStack and Web Developer</p>
-<p>I enjoy well tinkered and designed apps/programs and scripts in general</p>
-
----
-<h3> Tools & Softwares I use</h3>
-
-<img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind"></img>
+<img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,figma,xd"></img>
 
 <img src="https://skillicons.dev/icons?i=python"></img>
-
-<img src="https://skillicons.dev/icons?i=figma,xd"></img>
 
 <img src="https://skillicons.dev/icons?i=linux,bash"></img>
