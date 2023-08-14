@@ -16,8 +16,8 @@
 ---
 <h3> Softwares & Tools I use</h3>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,sass,tailwind,figma,xd"></img>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind,figma,xd"></img>
 
-<img src="https://skillicons.dev/icons?i=python"></img>
+<img src="https://skillicons.dev/icons?i=java,python"></img>
 
 <img src="https://skillicons.dev/icons?i=linux,bash"></img>
