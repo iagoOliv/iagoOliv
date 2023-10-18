@@ -18,6 +18,8 @@
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,sass,tailwind,figma,xd"></img>
 
+<img src="https://skillicons.dev/icons?i=cs, unity"></img>
+
 <img src="https://skillicons.dev/icons?i=java,python"></img>
 
 <img src="https://skillicons.dev/icons?i=linux,bash"></img>
