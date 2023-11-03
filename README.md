@@ -15,7 +15,7 @@
 ---
 <h3> Softwares & Tools I use or have used</h3>
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,sass,tailwind,figma"></img>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,sass,tailwind,figma"></img>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python"></img>
 
