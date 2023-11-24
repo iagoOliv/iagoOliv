@@ -13,10 +13,13 @@
 </div>
 
 ---
-<h3> Softwares & Tools I use or have used</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,sass,tailwind,figma"></img>
+<div align="center">
+  <h3> Softwares & Tools I use or have used</h3>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,sass,css,html,tailwind,figma"></img>
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python"></img>
 
 <img src="https://skillicons.dev/icons?i=linux,bash"></img>
+</div>
